@@ -1,0 +1,17 @@
+Install pip on ubuntu:
+1. sudo add-apt-repository universe  
+2.  sudo apt install python3-pip   
+
+install rasa
+1. install pip
+2. install python3
+   create venv
+   1.python3 -m venv ./venv
+   2. source ./venv/bin/activate
+3. pip install rasa
+
+install nodejs
+1. sudo apt install nodejs
+
+install npm
+1. sudo apt install npm
